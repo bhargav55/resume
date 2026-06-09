@@ -1,0 +1,33 @@
+name: Daily Web3 Job Hunt
+
+on:
+  schedule:
+    - cron: '30 3 * * *'   # 09:00 IST (03:30 UTC) every day
+  workflow_dispatch:         # manual trigger any time
+
+permissions:
+  issues: write
+  contents: read
+
+jobs:
+  hunt:
+    name: Fetch & Post Jobs
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install feedparser requests --quiet
+
+      - name: Run job hunter
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_REPOSITORY: ${{ github.repository }}
+        run: python scripts/fetch_jobs.py
