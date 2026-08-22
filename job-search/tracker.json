@@ -1,0 +1,87 @@
+{
+  "profile": {
+    "target_roles": [
+      "Senior/Staff Solidity Engineer",
+      "Smart Contract Engineer (EVM)",
+      "Blockchain Engineer - DeFi (perps/options/lending/RWA)",
+      "Account Abstraction (ERC-4337) Engineer",
+      "Blockchain + AI Agents Engineer"
+    ],
+    "secondary_roles": [
+      "Rust/Anchor Solana Engineer"
+    ],
+    "location": "Remote (India-based)"
+  },
+  "seen_jobs": [
+    {
+      "id": "web3career-silo-finance-senior-solidity-20929",
+      "title": "Senior Solidity Engineer",
+      "company": "Silo Finance",
+      "url": "https://web3.career/senior-solidity-engineer-silo-finance/20929",
+      "salary": "$300k - $750k",
+      "remote": true,
+      "first_seen": "2026-08-22",
+      "notes": "Lending protocol core contributor team"
+    },
+    {
+      "id": "web3career-solidity-labs-senior-smart-contract-68335",
+      "title": "Senior Smart Contract Engineer",
+      "company": "Solidity Labs",
+      "url": "https://web3.career/senior-smart-contract-engineer-solidity-labs/68335",
+      "salary": null,
+      "remote": true,
+      "first_seen": "2026-08-22",
+      "notes": "Boutique consultancy, 5+ yrs, exposure to many protocol codebases"
+    },
+    {
+      "id": "web3career-prime-protocol-solidity-19860",
+      "title": "Solidity Engineer",
+      "company": "Prime Protocol",
+      "url": "https://web3.career/solidity-engineer-prime-protocol/19860",
+      "salary": "$100k - $150k",
+      "remote": true,
+      "first_seen": "2026-08-22",
+      "notes": "2+ yrs production Solidity, deep EVM understanding"
+    },
+    {
+      "id": "web3career-chainlink-solidity-7203",
+      "title": "Solidity Engineer",
+      "company": "Chainlink",
+      "url": "https://web3.career/solidity-engineer-chainlink/7203",
+      "salary": "$67k - $180k",
+      "remote": true,
+      "first_seen": "2026-08-22",
+      "notes": "Fully distributed team"
+    },
+    {
+      "id": "ethereum-foundation-aa-interop-dx",
+      "title": "Web3 Developer - Developer Experience (Account Abstraction & Interop)",
+      "company": "Ethereum Foundation",
+      "url": "https://web3.career/r/zkjM4ETM__h7utjd3a",
+      "salary": null,
+      "remote": true,
+      "first_seen": "2026-08-22",
+      "notes": "Direct match: ERC-4337 experience from Xalts (paymaster, bundlers). Also touches EIL/interop."
+    },
+    {
+      "id": "framework-ventures-perps-smart-contract-lead",
+      "title": "Senior/Lead Smart Contract Engineer - Perpetuals DEX",
+      "company": "Framework Ventures",
+      "url": null,
+      "salary": null,
+      "remote": true,
+      "first_seen": "2026-08-22",
+      "notes": "Direct match: perps CLOB/matching/liquidation engine experience from Nunchi.trade. URL not captured, needs manual search on web3.career/cryptojobslist."
+    },
+    {
+      "id": "framework-ventures-staff-defi-engineer",
+      "title": "Senior/Staff DeFi Engineer",
+      "company": "Framework Ventures",
+      "url": null,
+      "salary": null,
+      "remote": true,
+      "first_seen": "2026-08-22",
+      "notes": "Cross-chain DeFi infra lead role. URL not captured, needs manual search."
+    }
+  ]
+}
