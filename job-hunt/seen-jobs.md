@@ -1,0 +1,2 @@
+# Jobs already reported (used to skip repeats in daily runs)
+- 2026-11-20: Framework Ventures perp DEX lead SC; Veda SC Engineer; Plume SC Engineer; Ondo Sr Blockchain; Trust Wallet SC (AA); Nethermind Founding Protocol (Web3+AI); Maple Sr Solidity; Espresso SC; Alchemy Protocol; Offchain Labs; BitGo Backend E3/E2; Notabene Staff Backend; Seedify Backend; Vedatechlabs; GenLayer/1inch Sr Solidity; rebase who-is-hiring #1281 RWA
