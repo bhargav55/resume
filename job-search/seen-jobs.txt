@@ -1,0 +1,18 @@
+# One line per job already reported (company | role); future runs skip these
+BOB | Senior Solidity Engineer
+MLabs | Senior Solidity Engineer
+LI.FI | Mid/Senior Smart Contract Engineer
+Clearpool Finance | Senior Smart Contract Engineer
+Ethena Labs | Senior/Staff DeFi Engineer
+Mantle | Blockchain Engineer
+Ihsan | Senior smart-contract / token engineer
+Galaxy | Associate Blockchain Security Engineer
+BitGo | Backend Engineer E2
+Tangible Trade | Senior Solidity Engineer Perpetuals
+Maple Finance | Senior Solidity Engineer
+G-20 Group | Smart Contract Engineer
+ByLabs | Smart Contract Security Researcher
+Nethermind | Senior Blockchain Engineer
+Circle | Senior Smart Contract Engineer
+CoinList | Senior Smart Contract Engineer
+Saifuro | Rust Smart Contract Engineer
